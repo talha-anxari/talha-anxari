@@ -1,47 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:2563EB&text=Muhammad%20Talha%20Ansari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20React%20Native%20Developer&descAlignY=58&descSize=18" />
+# Muhammad Talha Naeem Ansari
+**Frontend & React Native Developer** · Pakistan 🇵🇰
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Native+Developer;Building+Modern+Web+%26+Mobile+Apps" />
-
-<p align="center">
-
-<a href="mailto:talhaanxaritn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/talha-anxari" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/talha-ansari-894841281/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/talhaanxaritn" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:talhaanxaritn@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/talha-anxari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-ansari-894841281/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/talhaanxaritn)
 
 </div>
 
 ---
 
-# 💫 About Me
+## About
 
-```js
-const talha = {
-  location: "Pakistan 🇵🇰",
-  role: "Frontend & React Native Developer",
+Building scalable React Native apps with a focus on clean code, responsive UI, and performance. Currently deepening expertise in frontend architecture and full stack development.
 
-  tech: [
-    "React.js",
-    "Next.js",
-    "React Native",
-    "Firebase",
-    "Tailwind CSS",
-  ],
+---
 
-  currentFocus: "Scalable Mobile Apps",
-};
+## Tech Stack
+
+`JavaScript` `React.js` `React Native` `Next.js` `Tailwind CSS` `Redux` `Firebase` `Node.js` `Git` `Figma`
+
+---
+
+## Featured Projects
+
+| Project | Stack |
+|---------|-------|
+| E-Commerce Website | React, Firebase |
+| POS System (Rice stock & sales) | React, Redux |
+| Weather App | React, REST API |
+| Portfolio Website | React, Tailwind |
+
+---
+
+## GitHub Stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=talha-anxari&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-anxari&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+> *"Discipline and consistency build better developers than motivation ever will."*
